@@ -1,6 +1,6 @@
-<h1 align="centre"> 🎵 PHOENIX MUISC🎵</h1>
+<h1 align="centre"> 🎵ABHAY CLASHER MUSIC🎵</h1>
 
-Available on telegram as [musix_phoenix_bot](https://t.me/musix_phoenix_bot)
+Available on telegram as [Snake Music](https://t.me/AbhayMusicBot)
 
 <p align="center">
   <img src="https://telegra.ph/file/23822fa7374bde3e113ee.jpg">
@@ -49,7 +49,7 @@ Available on telegram as [musix_phoenix_bot](https://t.me/musix_phoenix_bot)
 You can set Channel Music Play like this:
  1. Get your channel ID.
  2. Rename your group to: Channel Music: your_channel_id
- 3. Add @musix_phoenix_bot as Channel admin with full perms
+ 3. Add @AbhayMusicBot as Channel admin with full perms
  4. Send /userbotjoin in Channel
  5. Simply send commands in your group.
 
