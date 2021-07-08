@@ -1,9 +1,9 @@
 <h1 align="centre"> 🎵 EVIL MUSIC 🎵</h1>
 
-Available on telegram as [Evil Xobot](https://t.me/evil_xobot)
+Available on telegram as [musix_phoenix_bot](https://t.me/musix_phoenix_bot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/401a556c981110e0f8ef4.jpg">
+  <img src="https://telegra.ph/file/23822fa7374bde3e113ee.jpg">
 </p>
 
 <h2> Whats new 🔥 </h2>
@@ -49,7 +49,7 @@ Available on telegram as [Evil Xobot](https://t.me/evil_xobot)
 You can set Channel Music Play like this:
  1. Get your channel ID.
  2. Rename your group to: Channel Music: your_channel_id
- 3. Add @Evil_Xobot as Channel admin with full perms
+ 3. Add @musix_phoenix_bot as Channel admin with full perms
  4. Send /userbotjoin in Channel
  5. Simply send commands in your group.
 
