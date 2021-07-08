@@ -1,4 +1,4 @@
-<h1 align="centre"> 🎵 EVIL MUSIC 🎵</h1>
+<h1 align="centre"> 🎵 PHOENIX MUISC🎵</h1>
 
 Available on telegram as [musix_phoenix_bot](https://t.me/musix_phoenix_bot)
 
