@@ -1,4 +1,4 @@
-<h1 align="centre"> 🎵ABHAY CLASHER MUSIC🎵</h1>
+<h1 align="centre"> 🎵ABHAY MUSIC BOT🎵</h1>
 
 Available on telegram as [Snake Music](https://t.me/AbhayMusicBot)
 
